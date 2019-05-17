@@ -1,0 +1,1 @@
+((Dipteris_conjugata:5.609288407,Dipteris_lobbiana:5.609288407):42.97416802,(Cheiropleuria_bicuspis:17.41097028,(Cheiropleuria_parva:6.980529536,Cheiropleuria_integrifolia:6.980529536):10.43044074):31.17248615);

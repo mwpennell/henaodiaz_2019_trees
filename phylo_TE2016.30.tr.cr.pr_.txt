@@ -1,0 +1,1 @@
+((Pentarhizidium_intermedium:19.23922658,Pentarhizidium_orientale:19.23922658):49.94186254,(Onoclea_sensibilis:51.38588952,(Matteuccia_struthiopteris:47.92661279,Onocleopsis_hintonii:47.92661279):3.459276725):17.7951996);

@@ -1,0 +1,1 @@
+((Psophia_napensis:1.21,(Psophia_crepitans:1.04,Psophia_ochroptera:1.04):0.17):1.53,(Psophia_leucoptera:1.79,(Psophia_viridis:1.25,(Psophia_obscura:0.76,(Psophia_dextralis:0.48,Psophia_interjecta:0.48):0.28):0.49):0.54):0.95);

@@ -1,0 +1,1 @@
+((((Cathartes.melambrotus:0.780846,Cathartes.burrovianus:0.780846):0.271045,Cathartes.aura:1.051891):4.3193365,Coragyps.atratus:5.3712275):0.7368995417,((Vultur.gryphus:3.696903,Sarcoramphus.pappa:3.696903):0.1593015,Gymnogyps.californianus:3.8562045):2.251922542);

@@ -1,0 +1,1 @@
+(Diplaziopsis_javanica:76.89647617,(Homalosorus_pycnocarpos:40.70552601,(Diplaziopsis_cavaleriana:30.1397762,Diplaziopsis_brunoniana:30.1397762):10.56574981):36.19095015);

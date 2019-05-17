@@ -1,0 +1,1 @@
+(Psilotum_nudum:66.30712463,((Tmesipteris_sigmatifolia:29.9968178,Tmesipteris_truncata:29.9968178):5.00418107,(Tmesipteris_oblanceolata:10.58338219,(Tmesipteris_tannensis:5.389751133,(Tmesipteris_horomaka:0.9957066718,(Tmesipteris_obliqua:0.3348197495,Tmesipteris_elongata:0.3348197495):0.6608869223):4.394044461):5.19363106):24.41761668):31.30612576);

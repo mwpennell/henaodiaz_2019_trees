@@ -1,0 +1,1 @@
+(Saccoloma_brasiliense:35.27679974,(Saccoloma_elegans:31.51313385,(Saccoloma_inaequale:25.66990561,Orthiopteris_kingii:25.66990561):5.843228241):3.763665888);

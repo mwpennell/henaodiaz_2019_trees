@@ -1,0 +1,1 @@
+((Cibotium_glaucum:5.707463994,(Cibotium_nealiae:2.410038937,(Cibotium_chamissoi:1.07722757,Cibotium_menziesii:1.07722757):1.332811366):3.297425057):19.47445472,((Cibotium_schiedei:0.8808645202,Cibotium_regale:0.8808645202):18.63091492,(Cibotium_arachnoideum:3.387272653,(Cibotium_barometz:1.343991241,Cibotium_cumingii:1.343991241):2.043281412):16.12450679):5.670139272);
